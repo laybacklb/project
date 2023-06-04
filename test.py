@@ -4,6 +4,8 @@ import zaisuibian
 
 UpdateText Merge conflict
 
+从github到本地
+
 # 通过ctypes.CDLL()函数加载lib文件
 # 这里lib的名字叫ps4000a
 ps4000a = ctypes.CDLL("D:\PycharmProjects\pythonProjects\lib_pico\ps4000a.dll")
